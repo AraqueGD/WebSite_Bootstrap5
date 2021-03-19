@@ -6,7 +6,7 @@
 
 Clona el proyecto en tu computadora
 
-`git clone https://github.com/marcosrivasr/bootstrap5-website.git`
+`git clone https://github.com/AraqueGD/WebSite_Bootstrap5.git`
 
 Para poder ejecutar el sitio web abre el archivo `index.html`.
 
